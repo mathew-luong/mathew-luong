@@ -2,13 +2,13 @@
 
 #### **I'm Mathew**.
 
-↳ 👨‍💻 Full Stack Developer
+↳ Full Stack Developer
 
-↳ 🎓 Computer Science Graduate from the University of Calgary
+↳ Computer Science Graduate from the University of Calgary
 
-↳ 💡 My favourite technologies are React, Next.js, Python, TypeScript and TailwindCSS
+↳ My favourite technologies are React, Next.js, Python, TypeScript and TailwindCSS
 
-↳ 🌱 Check out my portfolio **[here](https://mathew-luong.github.io/)**
+↳ Check out my portfolio **[here](https://mathew-luong.github.io/)**
 
 ## 
 🤝 Let's connect and collaborate. Feel free to [email me](mailto:mathewluong7@gmail.com) or reach out to me on [LinkedIn](https://www.linkedin.com/in/mathew-luong/)!
