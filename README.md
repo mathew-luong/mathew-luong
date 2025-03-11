@@ -10,7 +10,7 @@
 
 ↳ Check out my portfolio **[here](https://mathew-luong.github.io/)**
 
-
+<hr style="border: 0; height: 1px; background: #ddd;" />
 
 Lets chat :) Feel free to **[email me](mailto:mathewluong7@gmail.com)** or reach out to me on **[LinkedIn](https://www.linkedin.com/in/mathew-luong/)**!
 <!--
