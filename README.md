@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-#### I'm Mathew.
+#### **I'm Mathew**.
 
 ↳ Full Stack Developer
 
@@ -10,9 +10,8 @@
 
 ↳ Check out my portfolio **[here](https://mathew-luong.github.io/)**
 
-<hr style="border: 0; height: 1px; background: #ddd;" />
-
-Lets chat :) Feel free to **[email me](mailto:mathewluong7@gmail.com)** or reach out to me on **[LinkedIn](https://www.linkedin.com/in/mathew-luong/)**!
+## 
+Lets chat :). Feel free to [email me](mailto:mathewluong7@gmail.com) or reach out to me on [LinkedIn](https://www.linkedin.com/in/mathew-luong/)!
 <!--
 **mathew-luong/mathew-luong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
