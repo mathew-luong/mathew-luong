@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+I'm Mathew.
+
+↳ Full Stack Developer
+
+↳ Computer Science Graduate from the University of Calgary
+
+↳ My favourite technologies are React, Next.js, Python, TypeScript and TailwindCSS
+
+↳ Check out my portfolio **[here]([https://your-portfolio-link.com](https://mathew-luong.github.io/))**
+
+Lets chat :) Feel free to **[email me](mailto:mathew.luong7@gmail.com)** or reach out to me on **[LinkedIn](https://www.linkedin.com/in/mathew-luong/)**!
 <!--
 **mathew-luong/mathew-luong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
