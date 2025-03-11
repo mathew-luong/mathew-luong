@@ -8,7 +8,7 @@ I'm Mathew.
 
 ↳ My favourite technologies are React, Next.js, Python, TypeScript and TailwindCSS
 
-↳ Check out my portfolio **[here](https://www.linkedin.com/in/mathew-luong/)**
+↳ Check out my portfolio **[here](https://mathew-luong.github.io/)**
 
 ---
 
